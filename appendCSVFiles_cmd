@@ -1,0 +1,8 @@
+Using the command prompt window (cmd), you may append the csv files after
+changing the directory to where they are saved, as follows:
+
+cd\
+cd "C:\Users\Owner\Documents\DataAnalysisExcel\International Sales"   (in my case for example)
+copy *.csv InternationalSales.csv
+
+Then check the files in the directory using the "dir" command in the cmd window
